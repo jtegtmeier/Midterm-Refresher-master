@@ -1,1 +1,57 @@
 /* Stylesheet */
+
+body{
+	background:black;
+}
+
+.container_12 {
+	background:white;
+}
+
+header {
+	background:green;
+	border: solid;
+	border-radius: 10px;
+	box-shadow:10px 10px 2px grey;
+	
+}
+
+Nav {
+	background:yellow;
+	border: solid;
+	border-radius: 10px;
+	box-shadow:10px 10px 2px grey;
+}
+
+blockquote {
+	background:lightgreen;
+	border: hidden;
+	border-radius: 10px;
+}
+
+section {
+	background:orange;
+	border: hidden;
+	border-radius: 10px;
+}
+
+footer{
+	background:red;
+	border: hidden;
+	border-radius: 10px;
+}
+
+p{
+	padding:5px;
+}
+
+h3{
+	padding-left:10px;
+	font-family: 'Nunito', sans-serif;
+}
+
+h1{
+	padding:10px;
+	font-family: 'Sonsie One', cursive;
+	text-transform:uppercase;
+}
